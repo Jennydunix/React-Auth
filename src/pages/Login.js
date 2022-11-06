@@ -27,7 +27,6 @@ const Login = () => {
 
   };
 
-
   return (
     <div className={styles.logincard}>
       <h2>Login</h2>

@@ -27,6 +27,13 @@
     background: #fff;
     text-align: center;
   }
+
+  .container {
+    width: 1500px;
+    max-width: 100%;
+    min-height: 400px;
+    margin: 0 auto;
+}
   
   @media (width >= 500px) {
     .logincard {
