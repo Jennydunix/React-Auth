@@ -2,6 +2,7 @@ import { Link, useNavigate } from "react-router-dom";
 import styles from "./Navigation.module.css";
 import { useContext } from "react";
 import { AuthContext } from "../store/UserAuthContext";
+import logo1 from "../components/logo1.png"
 
 
 const Navigation = () => {
@@ -17,7 +18,7 @@ const Navigation = () => {
     <div className="container">
       <header className={styles.header}>
         <Link to="/dashboard" className={styles.logo}>
-          JEYOD's Academy
+        <img src={logo1} alt="logo" />
         </Link>
 
         <div className={styles.menu}>

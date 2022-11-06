@@ -11,9 +11,7 @@ header {
 }
 
 .logo {
-    font-weight: 500;
-    font-size: 2rem;
-    color: #777;
+    width: 200px;
 }
 
 .menu {
