@@ -14,7 +14,7 @@ const Navigation = () => {
     navigate('/')
   };
   return (
-    <>
+    <div className="container">
       <header className={styles.header}>
         <Link to="/dashboard" className={styles.logo}>
           JEYOD's Academy
@@ -27,7 +27,7 @@ const Navigation = () => {
           <button onClick={logoutUser}>Logout</button>
         </div>
       </header>
-    </>
+    </div>
   );
 };
 
