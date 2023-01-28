@@ -11,4 +11,7 @@ The nested route page(check result page) serves as a test for Error Boundary.
 
 The not found page(404 Page) also used for the forgot password on the login page is being displayed whenever the user navigates to an alien route ie a route that doesn't exist in our application. A button is being provided for the user to go back to the home page.
 
+
+Here's the link the the updated App and repositiory: https://github.com/Jennydunix/bookstore-jeyod
+
 _______________________________________________________________________________________________________________________![Exam Project](https://user-images.githubusercontent.com/88034429/200088933-22b97c77-eb58-4ef4-9db1-a58a17774ccf.png)
